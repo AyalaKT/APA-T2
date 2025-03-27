@@ -1,11 +1,7 @@
 """
 primos.py
 
-Autor: [Tu Nombre]
-
-Este módulo proporciona funciones para trabajar con números primos,
-incluyendo verificación de primalidad, generación de números primos,
-descomposición en factores primos, y cálculo de MCD y MCM.
+Autor: [Eric Ayala]
 
 Incluye tests unitarios para cada función.
 """
